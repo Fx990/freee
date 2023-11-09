@@ -161,7 +161,7 @@ def reg2():
  
  
  
-def FX ARIYAN(OK,cp):
+def THESAJJAD(OK,cp):
     if len(OK) != 0 or len(cp) != 0:
         print('\n----------------------------------------------')
         print(' Crack Has Been Completed.')
