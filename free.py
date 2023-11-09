@@ -161,7 +161,7 @@ def reg2():
  
  
  
-def FX ARIYAN (OK,cp):
+def FX ARIYAN(OK,cp):
     if len(OK) != 0 or len(cp) != 0:
         print('\n----------------------------------------------')
         print(' Crack Has Been Completed.')
@@ -369,4 +369,4 @@ class __xyz__:
 if __name__ == '__main__':
     reg()
  
- 
+
