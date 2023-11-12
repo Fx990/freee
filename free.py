@@ -127,7 +127,7 @@ def reg():
         to = open('/sdcard/Android/.bs7nt.txt', 'r').read()
     except (KeyError, IOError):
         reg2()
-    r = requests.get('https://github.com/Fx990/Chudi/tree/main/free.txt').text
+    r = requests.get('').text
     if to in r:
         time.sleep(2)
         python_java()
